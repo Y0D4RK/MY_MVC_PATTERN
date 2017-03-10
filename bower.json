@@ -1,0 +1,7 @@
+{
+  "name": "PHP_MVC",
+  "dependencies": {
+    "bootstrap": ">= 3",
+    "jquery": "2.2.4"
+  }
+}

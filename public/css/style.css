@@ -1,0 +1,9 @@
+body {
+    background: url('../img/background.jpg');
+}
+.content{
+    padding-top: 80px;
+}
+.panel-notice{
+    padding: 10px;
+}
