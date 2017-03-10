@@ -1,3 +1,4 @@
-##PHP Application Website - Pattern MVC
+##PHP Application Website - MVC
 
-To code easlyly - 
+> To code IN PHP easyly use pattern Model View Controller
+
