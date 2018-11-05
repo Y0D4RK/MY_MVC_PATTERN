@@ -1,15 +1,20 @@
-#PHP Application Website - MVC
+# PHP Application Website - MVC
 
-> To code in PHP easyly use pattern Model View Controller
+> To code in PHP easyly use pattern Model View Controller (MVC)
 
-###Clone and run :
+# Too easy - Clone and run :
 
+_enter in folder
 ```bash
-$ cd PHP_MVC
+$ cd MY_MVC_PATTERN
 ```
+
+_install lib
 ```bash
 $ bower install
+$ composer install
 ```
+_run app
 ```bash
 $ php -S localhost:8888
 ```
